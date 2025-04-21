@@ -102,25 +102,6 @@ This project explores retail sales, customer behavior, product demand, and opera
 
 ---
 
----
-
-## 💡 Business Use Cases
-
-- Inventory Planning & Procurement
-- Personalized Customer Offers
-- Seasonal Promotion Strategy
-- Supply Chain Optimization
-- Revenue Forecasting & Pricing
-
----
-
-## 🔧 Technologies
-
-- **Database:** MySQL
-- **Tools:** MySQL Workbench / DBVisualizer
-
----
-
 ## ✅ How to Use
 
 1. Clone the repository
