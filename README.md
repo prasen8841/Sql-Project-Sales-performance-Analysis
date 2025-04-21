@@ -147,15 +147,6 @@ This project explores retail sales, customer behavior, product demand, and opera
 
 ---
 
-## ✅ How to Use
-
-1. Clone the repository
-2. Load your data into MySQL
-3. Run the queries from `sales_performance_analysis.sql`
-4. Visualize and interpret the results
-
----
-
 ## 🙌 Acknowledgments
 
 Big thanks to the fictional dataset creators and the SQL community for guiding performance-focused analysis techniques.
