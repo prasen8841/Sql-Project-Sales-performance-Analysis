@@ -130,12 +130,6 @@ This project explores retail sales, customer behavior, product demand, and opera
 
 ---
 
-## 📬 Let's Connect
-
-- 📧 Email: prasenjit8841@gmail.com  
-- 💼 LinkedIn: 
----
-
 ## 💡 Business Use Cases
 
 - Inventory Planning & Procurement
@@ -170,41 +164,8 @@ Big thanks to the fictional dataset creators and the SQL community for guiding p
 
 ## 📬 Let's Connect
 
-- 📧 Email: yourname@example.com  
-- 💼 LinkedIn: 
----
-
-## 💡 Business Use Cases
-
-- Inventory Planning & Procurement
-- Personalized Customer Offers
-- Seasonal Promotion Strategy
-- Supply Chain Optimization
-- Revenue Forecasting & Pricing
-
----
-
-## 🔧 Technologies
-
-- **Database:** MySQL
-- **Tools:** MySQL Workbench / DBVisualizer
-
----
-
-## ✅ How to Use
-
-1. Clone the repository
-2. Load your data into MySQL
-3. Run the queries from `sales_performance_analysis.sql`
-4. Visualize and interpret the results
-
----
-
-## 📬 Let's Connect
-
 - 📧 Email: prasenjit8841@gmail.com  
-- 💼 LinkedIn:(https://www.linkedin.com/in/prasenjitsaha8841/)
-
+- 💼 LinkedIn: https://www.linkedin.com/in/prasenjitsaha8841/
 ---
 
 ⭐ **If you found this project useful, please give it a star!**
